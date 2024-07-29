@@ -4,7 +4,7 @@
 
 ## Dev:
 
-`pre-commit try-repo ../kustomize-precommit-hook kustomize --verbose --all-files`
+`pre-commit try-repo ../kustomize-pre-commit-hook kustomize --verbose --all-files`
 
 ## TODO:
 

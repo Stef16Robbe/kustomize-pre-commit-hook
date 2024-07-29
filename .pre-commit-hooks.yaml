@@ -1,7 +1,7 @@
 - id: kustomize
   name: Run kustomize build
   description: This hook runs kustomize build on all kustomization.yaml files in your repo
-  entry: kustomize-precommit-hook
+  entry: kustomize-pre-commit-hook
   language: rust
   types: [text]
   files: '.*kustomization.yaml'

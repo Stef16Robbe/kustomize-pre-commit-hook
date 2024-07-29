@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "kustomize-precommit-hook"
+name = "kustomize-pre-commit-hook"
 version = "0.1.0"
